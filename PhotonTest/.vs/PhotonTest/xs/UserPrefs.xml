@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{D5166D50-4887-4780-F395-121243F58D17}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Photon Unity Networking/UtilityScripts/SmoothSyncMovement.cs">
+    <Files>
+      <File FileName="Assets/PlacenoteMultiplayerKit/Examples/MoonController.cs" Line="17" Column="3" />
+      <File FileName="Assets/PlacenoteMultiplayerKit/Examples/ProteinStructureController.cs" Line="6" Column="13" />
+      <File FileName="Assets/PlacenoteMultiplayerKit/Examples/GameController.cs" Line="101" Column="17" />
+      <File FileName="Assets/Scripts/GameControllerTutorial.cs" Line="15" Column="2" />
+      <File FileName="Assets/Placenote/Editor/APIKeyCheck.cs" Line="64" Column="1" />
+      <File FileName="Assets/PlacenoteMultiplayerKit/PlacenoteMultiplayerManager/PlacenoteMultiplayerManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Photon Unity Networking/UtilityScripts/SmoothSyncMovement.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PhotonTest" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Photon Unity Networking" expanded="True">
+                <Node name="UtilityScripts" expanded="True">
+                  <Node name="SmoothSyncMovement.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Placenote" expanded="True">
+                <Node name="Editor" expanded="True" />
+              </Node>
+              <Node name="PlacenoteMultiplayerKit" expanded="True">
+                <Node name="Examples" expanded="True" />
+                <Node name="PlacenoteMultiplayerManager" expanded="True" />
+              </Node>
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0963a869-3477-4d0b-9d33-8a166b06ad91" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
